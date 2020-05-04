@@ -1,2 +1,2 @@
 # Photography
-practice
+live view : https://shoyibafridi.github.io/Photography/
